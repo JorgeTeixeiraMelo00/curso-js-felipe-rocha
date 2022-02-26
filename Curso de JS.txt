@@ -1,0 +1,29 @@
+O que é JavaScript?
+
+- Lingaguem de programção interpretada
+- Evolui conforme a especificação ECMAScript
+- É executada no navegador (cliente) e também no servidor (Node.JS)
+
+Por que aprender JavaScript?
+
+- É a linguagem de programção padrão de todos os navegadores
+- Frameworks poderossimos, como React utilizam JavaScript
+- Usado para desenvolver aplicações full stack (front end e back end)
+- Usado em desenvolvimento mobile (React native)
+- Usado em aplicações desktop (Electron)
+
+O que você vai aprender no curso?
+
+- Variáveis e tipos de dados
+- Listas (arrays)
+- Objetos
+- JSON
+- Loops (for, for of, while, forEach)
+- Condicionais (if, else, switch, ternary)
+- funções e arrow functions
+- PEOO
+- Selecionar elementos do DOM
+- Manipular elementos do DOM
+- Eventos
+- Criar e validar um formulario
+
